@@ -1,0 +1,9 @@
+Diabetes Prediction Using Ensemble Learning and Explainable AI
+
+Diabetes is a chronic condition affecting millions, with significant health and economic consequences. Early detection is critical for effective intervention. In this project, we leverage the 2015 Behavioral Risk Factor Surveillance System (BRFSS) dataset to predict diabetes risk using **Ensemble Learning** techniques. 
+
+The notebook explores advanced machine learning models and integrates **Explainable AI (XAI)** to provide insights into feature importance and model decisions. With over 440,000 records and 330 features, the analysis highlights the power of modern AI in addressing real-world healthcare challenges.  
+
+Check out the code and findings here! 🚀
+
+https://colab.research.google.com/drive/19uUEUeehtnCe90ARKrt_VOukVqDqBYEl?usp=sharing
